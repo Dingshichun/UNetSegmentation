@@ -1,0 +1,10 @@
+*.vscode
+*__pycache__
+*.pth
+./PlantVillage
+./PlantVillage_processed
+*.jpg
+*.png
+!Apple_scab_3417.JPG
+!prediction.png
+!checkpoints/training_curves.png
