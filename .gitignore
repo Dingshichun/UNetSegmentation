@@ -3,9 +3,3 @@
 *.pth
 PlantVillage/*
 PlantVillage_processed/*
-*.jpg
-*.png
-*.jpeg
-!Apple_scab_3417.JPG
-!prediction.png
-!checkpoints/training_curves.png
